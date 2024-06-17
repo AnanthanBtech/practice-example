@@ -29,4 +29,5 @@ Sudoku puzzle solve using the backtracking algorithm.
 cd Sudoku
 javac SudokuPuzzleSolve.java
 java SudokuPuzzleSolve
+
 ![Optional Text](https://github.com/AnanthanBtech/practice-example/blob/main/assets/sudoku-puzzle-solve-console-output.png)
