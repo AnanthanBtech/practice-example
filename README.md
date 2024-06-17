@@ -26,8 +26,8 @@ Sudoku puzzle solve using the backtracking algorithm.
 - Editor (Notepad++, Eclipse, etc)
 
 # How to run
-cd Sudoku
-javac SudokuPuzzleSolve.java
-java SudokuPuzzleSolve
+cd Sudoku <br /> 
+javac SudokuPuzzleSolve.java <br /> 
+java SudokuPuzzleSolve <br /> 
 
 ![Optional Text](https://github.com/AnanthanBtech/practice-example/blob/main/assets/sudoku-puzzle-solve-console-output.png)
